@@ -1,0 +1,13 @@
+#1v1 Plugin v1.0.0 - Config-File
+monataryreward: 
+    amount: 2000
+    enabled: true
+itemreward:
+    items: diamond:1,emerald:1
+    enabled: true
+items:
+    equipment: diamond_sword,potion:16389:6,potion:16393:2
+    armour: 313,312,311,310
+
+
+arenalocations:

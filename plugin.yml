@@ -1,0 +1,14 @@
+name: OneVsOne
+main: io.github.OscarNorman.OneVsOne.OneVsOne
+version: 1.0.0
+description: This is a plugin to allow undisturbed player 1v1 challenges
+softdepend: Vault 
+
+
+commands:
+    onevsone:
+      description: This is the main OneVsOne command.
+      usage: /onevsone
+      permission: OneVsOne.onevsone
+      permission-message: You don't have permission!
+      default: not op
